@@ -1,2 +1,2 @@
-# Webdevelopment playground
-Learning Webdevelopment
+# Web development playground
+Learning Web development
